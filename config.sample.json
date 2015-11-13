@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "email": "<email address>",
+    "password": "<pw>"
+  },
+  "channels": [],
+  "admins": [
+    "admin-ids"
+  ],
+  "modules": [
+  ],
+  "imgur": {
+    "clientID": "ingur-key"
+  }
+}
