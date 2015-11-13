@@ -1,0 +1,17 @@
+{
+  "name" : "discord-bot",
+  "version" : "1.0.0",
+  "description" : "discord-bot",
+  "main" : "bot.js",
+  "scripts" : {
+    "start" : "node bot.js"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git+https://github.com/ThePengwin/discord-bot.git"
+  },
+  "license": "MIT",
+  "dependencies": [
+    "discord.js"
+  ]
+}
